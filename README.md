@@ -1,2 +1,1 @@
-# Glebfedchenko.github.io
-Angular project
+React project
