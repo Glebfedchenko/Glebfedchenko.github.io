@@ -1,0 +1,51 @@
+#newsbtn {
+  margin-left: 300px;
+  border: none;
+  color: #00eeff;
+}
+
+#newsbtn:hover {
+  background-color: transparent;
+  font-weight: bold;
+}
+#mainportfoliocontainer{
+  margin-top: 125px;
+}
+#menu{
+  padding-top: 75px;
+  padding-bottom: 75px; 
+  font-size: 13px;
+}
+#menu ul {
+  list-style-type: none;
+  display: inline-block;
+}
+
+#menu li {
+  display: inline-block;
+}
+
+#menu button {
+  background-color: transparent;
+  cursor: pointer;
+  border: 1px solid #fff;
+  color: black;
+  padding: 25px;
+}
+
+#menu button:hover,
+#menu button:active,
+#menu button:focus,
+#menu button:visited {
+  background-color: transparent;
+  cursor: pointer;
+  border: 1px solid #00eeff;
+  color: black;
+}
+#photoscontainer{
+  margin: 0;
+}
+
+#photos {
+  padding: 0;
+}

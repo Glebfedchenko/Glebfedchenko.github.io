@@ -1,0 +1,70 @@
+@media screen and (max-width: 989px) and (min-width: 300px){
+.facebook, .twitter, .dribble, .googleplus{
+    position: relative;
+    top:0;
+    left: 14px;
+}
+
+#lightborder1, #lightborder2, #lightborder3, #lightborder4{
+    display: none;
+}
+
+#input{
+    margin-top: 50px;
+}
+}
+@media  (max-width:1024px) {
+#lightborder1, #lightborder2, #lightborder3, #lightborder4{
+    display: none;
+}
+.facebook{
+    position: relative;
+    top:0;
+    left: -1px;
+    width: 47px;
+}
+.twitter{
+    position: relative;
+    top:0;
+    left: -1px;
+    width: 56px;
+}
+.dribble{
+    position: relative;
+    top:0;
+    left: -1px;
+    width: 55px;
+}
+.googleplus{
+    position: relative;
+    top:0;
+    left: -1px;
+    width: 53px;
+}
+}
+@media (width:768px) and (width:414px) and (width:375px) and (width:320px) and (width:412px) and (width:360px){
+    .facebook{
+    position: relative;
+    top:0;
+    left: -1px;
+    width: 47px;
+}
+.twitter{
+    position: relative;
+    top:0;
+    left: -1px;
+    width: 56px;
+}
+.dribble{
+    position: relative;
+    top:0;
+    left: -1px;
+    width: 55px;
+}
+.googleplus{
+    position: relative;
+    top:0;
+    left: -1px;
+    width: 53px;
+}
+}

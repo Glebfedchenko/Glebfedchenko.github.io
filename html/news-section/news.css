@@ -1,0 +1,38 @@
+#news{
+margin-bottom: 90px;
+}
+#newsbtn{
+  margin-left: 300px;
+  border:none;
+  color:#00eeff;
+  margin-bottom: 20px;  
+  font-size: 13px;
+}
+#newsbtn:hover{
+  background-color: transparent;
+  font-weight: bold;
+  font-size: 13px;
+}
+#newshr{
+    width: 100%;
+}
+#newsheadline{
+    margin-bottom: 40px;
+}
+#newsDate{
+  font-size: 66.56px;
+  color: #00eeff;
+  margin-bottom: 20px;
+  margin-top: 0;
+  position: relative;
+  top:-20px;
+
+}
+#newsMonth{
+  margin-bottom: 35px;
+  position: relative;
+  top:-20px;
+}
+#newssection{
+  margin-top: 165px;
+}

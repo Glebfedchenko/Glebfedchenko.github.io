@@ -1,0 +1,33 @@
+<div ng-controller="peopleCtrl" id='media' >
+    <div class="container" id='aboutus'>
+        <div class="row" id='peoplemaincontainer'>
+            <div class="col-md-12 text-center">
+                <h2 id='sectionheading' class="section-heading">We are the one</h2>
+                <hr id='hr' class="primary">
+                <p class="text-faded">Eum cu tantas legere complectitur, hinc utamur ea eam. Eum patrioque mnesarchum eu, diam erant convenire
+                    et vis. Et essent evertitur sea, vis cu ubique referrentur, sed eu dicant expetendis.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row item active text-center" >
+            <div class="col-sm-3 col-md-3 col-xs-6 text-center" ng-repeat="t in team">
+                <div class="single-member">
+                    <img class='img-responsive text-center' src="{{t.avatar}}" alt="team member">
+                    <div id='member-info'>
+                        <h4>{{t.name}}</h4>
+                        <h5>{{t.position}}</h5>
+                    </div>
+                    <p>{{t.text}}</p>
+                    <div id="iconcontainer">
+                        <div class="col-md-3 col-sm-2 col-xs-3 text-center facebook"></div>
+                        <div class="col-md-3 col-sm-2 col-xs-3 text-center twitter"></div>
+                        <div class="col-md-3 col-sm-2 col-xs-3 text-center googleplus"></div>
+                        <div class="col-md-3 col-sm-2 col-xs-3 text-center dribble"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
