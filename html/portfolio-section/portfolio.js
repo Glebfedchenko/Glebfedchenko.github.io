@@ -11,62 +11,62 @@ $scope.categories = ['ALL', 'WEB', 'PHOTOGRAPHY', 'GRAPHIC DESIGN'];
       id: '1',
       category: 'web',
       name: 'panda',
-      url: 'http://picsdesktop.com/space/560x420/www.PicsDesktop.com_421.jpg',
+      url: '/assets/pic1.jpg',
     }, {
       id: '2',
       category: 'web',
       name: 'tiger',
-      url: 'http://picsdesktop.com/space/560x420/www.PicsDesktop.com_422.jpg',
+      url: '/assets/pic2.jpg',
     }, {
       id: '3',
       category: 'web',
       name: 'panda',
-      url: 'http://picsdesktop.com/space/560x420/www.PicsDesktop.com_423.jpg',
+      url: '/assets/pic3.jpg',
     }, {
       id: '4',
       category: 'web',
       name: 'panda',
-      url: 'http://picsdesktop.com/space/560x420/www.PicsDesktop.com_424.jpg',
+      url: '/assets/pic4.jpg',
     }, {
       id: '5',
       category: 'photography',
       name: 'panda',
-      url: 'http://picsdesktop.com/space/560x420/www.PicsDesktop.com_425.jpg',
+      url: '/assets/pic5.jpg',
     }, {
       id: '6',
       category: 'photography',
       name: 'panda',
-      url: 'http://picsdesktop.com/space/560x420/www.PicsDesktop.com_430.jpg',
+      url: '/assets/pic6.jpg',
     }, {
       id: '7',
       category: 'photography',
       name: 'panda',
-      url: 'http://picsdesktop.com/space/560x420/www.PicsDesktop.com_432.jpg',
+      url: '/assets/pic7.jpg',
     }, {
       id: '8',
       category: 'photography',
       name: 'panda',
-      url: 'http://picsdesktop.com/space/560x420/www.PicsDesktop.com_431.jpg',
+      url: '/assets/pic8.jpg',
     }, {
       id: '9',
       category: 'design',
       name: 'panda',
-      url: 'http://picsdesktop.com/space/560x420/www.PicsDesktop.com_444.jpg',
+      url: '/assets/pic9.jpg',
     }, {
       id: '10',
       category: 'design',
       name: 'panda',
-      url: 'http://picsdesktop.com/space/560x420/www.PicsDesktop.com_436.jpg',
+      url: '/assets/pic10.jpg',
     }, {
       id: '11',
       category: 'design',
       name: 'panda',
-      url: 'http://picsdesktop.com/space/560x420/www.PicsDesktop.com_456.jpg',
+      url: '/assets/pic11.jpg',
     }, {
       id: '12',
       category: 'design',
       name: 'panda',
-      url: 'http://picsdesktop.com/space/560x420/www.PicsDesktop.com_452.jpg',
+      url: '/assets/pic12.jpg',
     }
 
   ];
